@@ -5,6 +5,6 @@ class Anagram
     @match = match
   
   def match 
-    
-  end
+    @match 
+  end 
 end
