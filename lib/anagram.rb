@@ -4,5 +4,8 @@ class Anagram
   def inirialize(match)
     @match = match
   end
-  
+  def self.match
+    @match.each do |word|
+      
+    
 end
