@@ -4,7 +4,4 @@ class Anagram
   def inirialize(match)
     @match = match
   
-  def match 
-    @match 
-  end 
 end
